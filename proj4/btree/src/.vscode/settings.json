@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "string_view": "c",
+        "memory.h": "c",
+        "iostream": "c",
+        "string.h": "c",
+        "functional": "c"
+    }
+}
